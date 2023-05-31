@@ -1,5 +1,4 @@
-﻿using CompanyWebService;
-using System;
+﻿using System;
 using System.ServiceModel;
 
 namespace CompanyWebServiceHost
